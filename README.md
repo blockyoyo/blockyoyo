@@ -3,8 +3,6 @@
 ### My github page
 
 
-# Some of my skillz
-
 Desgin
 
 [![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal,ai,ps,ae,figma&sketchup=3)](https://skillicons.dev)
