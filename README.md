@@ -1,6 +1,6 @@
-# Hello World 👋 I'm Joey
+# Hello World 👋
 
-### I love 🍌 and 🥭 and 🌴 and most the time you can find me near a beach 🌊 surfing
+### My github page
 
 
 # Some of my skillz
@@ -14,4 +14,3 @@ Code
 
 [![My Skills](https://skillicons.dev/icons?i=pug,threejs,js,html,css,react,nextjs,nodejs,ipfs,solidity,bots&tailwind=3)](https://skillicons.dev)
 
-## 🏄 ✌🏻
